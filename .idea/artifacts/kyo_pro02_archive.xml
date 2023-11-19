@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kyo_pro02 archive">
+    <output-path>$PROJECT_DIR$/../pro/Kproject2/out/artifacts/kyo_pro02</output-path>
+    <root id="archive" name="kyo_pro02 archive.war">
+      <element id="artifact" artifact-name="kyo_pro02" />
+    </root>
+  </artifact>
+</component>

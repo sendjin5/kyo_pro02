@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="kyo_pro02">
+    <output-path>$PROJECT_DIR$/../pro/Kproject2/out/artifacts/kyo_pro02_war</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="archive" name="project2.jar">
+            <element id="module-output" name="kyo_pro02" />
+          </element>
+          <element id="library" level="project" name="cos" />
+          <element id="library" level="project" name="apache.tomcat.servlet.api" />
+          <element id="library" level="project" name="google.code.gson" />
+          <element id="library" level="project" name="javax.el.api" />
+          <element id="library" level="project" name="javax.json.api" />
+          <element id="library" level="project" name="json" />
+          <element id="library" level="project" name="jsoup" />
+          <element id="library" level="project" name="jstl" />
+          <element id="library" level="project" name="net.markenwerk.utils.json.parser" />
+          <element id="library" level="project" name="taglibs.standard" />
+          <element id="library" level="project" name="mariadb.jdbc.java.client" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="team42/web/Web" />
+    </root>
+  </artifact>
+</component>
