@@ -1,4 +1,4 @@
-# Kyo_Project2 GNJ Book 웹 스토어 프로젝트
+# Kyo_Project2 웹 스토어 프로젝트
 
 ## 프로젝트 개요
 
